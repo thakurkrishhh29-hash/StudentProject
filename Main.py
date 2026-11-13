@@ -1,4 +1,4 @@
-#-----STUDENT INFO-----#
+#----update using git hub-#
 name="Krish Thakur"
 subject_name="python"
 marks=50
@@ -9,6 +9,7 @@ if marks>=40:
     print("marks: ",marks)
     print("PASS")
     print("thank you for using git and github")
+    
     
         
     
